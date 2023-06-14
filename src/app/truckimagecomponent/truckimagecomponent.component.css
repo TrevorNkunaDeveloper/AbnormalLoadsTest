@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-family: Arial;
+    font-weight: bolder;
+}
+h6{
+    text-align: center;
+    font-family:  Helvetica;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 15px;
+}
